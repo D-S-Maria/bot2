@@ -1,13 +1,3 @@
-blinker
-click
-colorama
 flask
-importlib-metadata
-itsdangerous
 Jinja2
-MarkupSafe
-pip
-setuptools
-werkzeug
-wheel
-zipp
+
